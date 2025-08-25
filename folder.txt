@@ -1,2 +1,5 @@
 hello my name is manik
 hello my name is manik kalsi
+myself manik
+myself kalsi
+myname manik kalsi
