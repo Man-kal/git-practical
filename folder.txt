@@ -1,3 +1,5 @@
+This is Manik
+This is final edited lines by me 
 <<<<<<< HEAD
 hello my name is manik
 hello my name is manik kalsi
