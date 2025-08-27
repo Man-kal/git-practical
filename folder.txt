@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 hello my name is manik
 hello my name is manik kalsi
 myself manik
 myself kalsi
 myname manik kalsi
 this is file created in local repo
+=======
+Myself Manik Kalsi
+This file is totally edited
+Git hub is totally great
+>>>>>>> 0610b88 (updated few lines 1,2,3 in folder.txt)
